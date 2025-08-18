@@ -1,0 +1,11 @@
+/* Global styles */
+body {
+  font-family: 'Ubuntu', 'Rubik', 'Josefin Sans', sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  cursor: pointer;
+}
