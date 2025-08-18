@@ -18,3 +18,4 @@ export default function NoteCard({ note, onClick }) {
     </div>
   );
 }
+
